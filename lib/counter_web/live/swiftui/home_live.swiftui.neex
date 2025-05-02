@@ -1,0 +1,5 @@
+<Text>My first App!</Text>
+<VStack>
+  <Text><%= @counter %></Text>
+  <Button phx-click="incr">+1</Button>
+</VStack>
